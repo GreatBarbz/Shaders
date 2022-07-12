@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Case Gold
+  m_Shader: {fileID: -6465566751694194690, guid: 219c5f4857124c749b84514e1f44e4e6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_0b2006a7dab54254b86209e7a9278aa9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4cf94327270e6484fb1c0226c9054a0a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4b4ab5908e27447286c5ed5b3c9eab18_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0219b42420d335a4089a89f044612e7a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_792a977dd105424497de96b0793b3fd7_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 53b9b9a12f53e8d448566aeab900c00f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9dddf3c7f5624f66b1569b04afdfbeef_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f4e194918f227ea4c8528e4573ae65de, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a29f22e26ecf4ab2958fea1cb12b766f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: b337752ee5d252547a334dbb30582dea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Metal: 1
+    - smooth: 0.5
+    - speed: -7
+    m_Colors:
+    - Color_1: {r: 0.9433962, g: 0.83833057, b: 0.53844786, a: 0}
+    - _Color: {r: 1.319508, g: 0.9365919, b: 0, a: 0.57254905}
+  m_BuildTextureStacks: []
